@@ -1,0 +1,4 @@
+User-agent: all
+Allow: /
+
+Sitemap: https://uzox.tech/sitemap.xml/
